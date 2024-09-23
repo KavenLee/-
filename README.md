@@ -3,7 +3,8 @@
 - Private : 2 위
 
 
-![image](https://github.com/user-attachments/assets/e936ce9e-d0e7-4dfa-a305-dac4a423d513){: width="200" height="200"}
+![image](https://github.com/user-attachments/assets/e936ce9e-d0e7-4dfa-a305-dac4a423d513)
+<img src="https://github.com/user-attachments/assets/e936ce9e-d0e7-4dfa-a305-dac4a423d513" width=200 height=200/>
 
 
 ![image](https://github.com/user-attachments/assets/d82aabcf-38f0-412c-8fda-afe464401cfb)  우승의 기쁨을 맛본 소감을 한마디로 표현해 주세요.
